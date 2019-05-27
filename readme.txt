@@ -39,8 +39,3 @@ Arrows : Left and right movement
 Space : Fire jetpack
 W : Throw waterballoons 
 
-
-
-Anirudha Ramesh
-IIIT-H
-
