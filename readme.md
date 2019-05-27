@@ -1,5 +1,5 @@
-Jetpack Joyride 
-------------------
+# Jetpack Joyride 
+---
 
 This is a version of the mobile hit Jetpack Joyride made in C++ using OpenGL.
 
@@ -38,4 +38,3 @@ Controls :
 Arrows : Left and right movement 
 Space : Fire jetpack
 W : Throw waterballoons 
-
