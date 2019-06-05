@@ -1,6 +1,9 @@
 # Jetpack Joyride 
 ---
 
+![Preview Image](https://github.com/AnirudhaRamesh/JetpackJoyride/blob/master/Preview1.png)
+![Preview Image](https://github.com/AnirudhaRamesh/JetpackJoyride/blob/master/Preview2.png)
+
 This is a version of the mobile hit Jetpack Joyride made in C++ using OpenGL.
 
 This game has 2 levels, 
